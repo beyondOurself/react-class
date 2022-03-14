@@ -1,0 +1,23 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 info pnpm": {
+    "err": {
+      "name": "Error",
+      "message": "not found: create-react-app",
+      "code": "ENOENT",
+      "stack": "Error: not found: create-react-app\n    at getNotFoundError (C:\\Users\\56217\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:41555:51)\n    at Function.whichSync [as sync] (C:\\Users\\56217\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:41632:13)\n    at getCommandAbsolutePathSync (C:\\Users\\56217\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:43197:44)\n    at default_1 (C:\\Users\\56217\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:43206:32)\n    at C:\\Users\\56217\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:178047:39"
+    }
+  },
+  "2 error pnpm": {
+    "code": "ERR_PNPM_RECURSIVE_EXEC_FIRST_FAIL",
+    "prefix": "P:\\react17-class\\03.HOOk",
+    "err": {
+      "name": "pnpm",
+      "message": "not found: create-react-app",
+      "code": "ERR_PNPM_RECURSIVE_EXEC_FIRST_FAIL",
+      "stack": "Error: not found: create-react-app\n    at getNotFoundError (C:\\Users\\56217\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:41555:51)\n    at Function.whichSync [as sync] (C:\\Users\\56217\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:41632:13)\n    at getCommandAbsolutePathSync (C:\\Users\\56217\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:43197:44)\n    at default_1 (C:\\Users\\56217\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:43206:32)\n    at C:\\Users\\56217\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:178047:39"
+    }
+  }
+}
